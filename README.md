@@ -3,6 +3,10 @@ Node JS basic
 - [x] Updated (3/11/2024)
 
 - [ ] Still working... :shipit:
+
+
+> [!TIP]
+> This is how folder branch.
 ```bash
 ├───lab02
 │   ├───node_modules
@@ -315,4 +319,5 @@ Node JS basic
 │   └───views
 ├───moduleExpress
 ├───moduleFS
-└───moduleHTTP```
+└───moduleHTTP
+```
