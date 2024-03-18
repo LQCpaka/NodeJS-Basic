@@ -8,7 +8,7 @@ const khoaHocAdd = (req,res) =>{
 const khoaHocEdit = (req,res) =>{
     res.render('editKhoaHoc');
     let khoaHoc = khoaHocModel.khoaHocTim(id);
-    res.render
+    res.render('editKhoaHoc',{khoaHoc});
 }
 const khoaHocDelete = (req,res) =>{
     res.render('delKhoaHoc');
